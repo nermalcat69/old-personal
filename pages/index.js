@@ -137,11 +137,6 @@ export default function Home() {
             <p className={styles.hireme}>You should hire me because I have a proven track record of being able to handle stress and adversity. My workaholic nature and problem-solving skills make me a valuable asset to any organization. My background in finance and startups, as well as my listening to related podcasts, keeps me informed of the latest trends and developments, which gives me a competitive edge. My experience in web development and design, front-end build tools, SEO practices, UI/UX design, video editing, graphic design and sales and marketing will also be a great asset to your company. I have a team-oriented attitude, as I have experience working with programmers on discord, which will make me a great addition to your team.</p>
             </div>
         </div>
-        <div className={styles.orange}></div>
-        <div className={styles.red}>
-                  <h1 className={styles.here}><img className={styles.here1} src="sponge.gif" height="80" />Projects</h1>
-                  <marquee className={styles.projects}><div className='styles.cards'></div></marquee>
-        </div>
         <marquee className={styles.guitarcontainer} direction="left" scrollamount="4"><img className={styles.guitar} src="guitar.gif" width="70" /></marquee>
         <img className={styles.arjunimg} src="Homer-Animated.gif" width="90" /> 
 
